@@ -9,8 +9,8 @@ import json
 from_data = input('出发地:')
 to_data = input('目的地:')
 data_time = input('日期:(格式:2022-12-12):')
-username = '17610386097'
-password = 'Hyf123456hyf'
+username = 'your username'
+password = 'your password'
 
 
 f= open('city.json',encoding='utf-8')
